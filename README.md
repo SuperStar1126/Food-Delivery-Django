@@ -8,7 +8,7 @@
 ## Installation:
 **1.Clone the Repo**
 ```sh
-git clone https://github.com/shyam999/Hot-Food.git
+git clone https://github.com/rainbow112697/Food-Delivery-Django.git
 ```
 **2.Setup pipenv & Install Requirements**
 ```sh
